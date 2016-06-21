@@ -1,0 +1,19 @@
+body {
+  background-color: #90CAF9;
+}
+
+.tweet-card {
+  background-color: #ffffff;
+  margin-top: 18px;
+  border-radius: 12px;
+  padding-top: 12px;
+  box-shadow: 2px 2px 12px #1976D2;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.wait-for-it {
+  font-size: large;
+}

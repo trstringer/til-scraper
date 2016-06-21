@@ -1,0 +1,33 @@
+{
+  "name": "til-scrape",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0",
+    "body-parser": "~1.13.2",
+    "bootstrap": "^3.3.6",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "express": "~4.13.1",
+    "jade": "~1.11.0",
+    "morgan": "~1.6.1",
+    "open": "0.0.5",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "serve-favicon": "~2.3.0",
+    "socket.io": "^1.4.6",
+    "socket.io-client": "^1.4.6",
+    "twitter": "^1.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.7",
+    "webpack": "^1.13.1"
+  }
+}
