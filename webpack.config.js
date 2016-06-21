@@ -16,7 +16,7 @@ module.exports = {
   },
   plugins: [
     new webpack.DefinePlugin({
-      SOCKET_URL: "'http://localhost:3000'"
+      SOCKET_URL: "'http://tilscraper.azurewebsites.net'"
     })
   ]
 };

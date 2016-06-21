@@ -47,7 +47,7 @@
 	const React = __webpack_require__(1);
 	const ReactDOM = __webpack_require__(38);
 	const io = __webpack_require__(168);
-	var socket = io(('http://localhost:3000'));
+	var socket = io(('http://tilscraper.azurewebsites.net'));
 
 	var Tweet = React.createClass({
 	  displayName: 'Tweet',
